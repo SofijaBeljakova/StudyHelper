@@ -40,8 +40,8 @@ Kuna tegemist on sooloprojektiga, täidab kõiki rolle üks inimene:
 
 *   **Vastutaja:** Sofija Beljakova
 *   **Eesmärk ja ülesanded:** 
-    1) Ühendada Backend andmebaasiga.
-    2) Realiseerida flashcard'ide salvestamise funktsionaalsus, et loodud kaardid säiliksid andmebaasis ja kuvataks veebilehel.
+    1. Ühendada Backend andmebaasiga.
+    2. Realiseerida flashcard'ide salvestamise funktsionaalsus, et loodud kaardid säiliksid andmebaasis ja kuvataks veebilehel.
 
 ## 7) Valmis-definitsioon
 
